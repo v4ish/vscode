@@ -1,0 +1,27 @@
+{
+  "name": "Cold-Moon",
+  "displayName": "Cold Moon by v4ish",
+  "description": "A theme named Cold moon made for Dark aesthetic enjoyers",
+  "version": "0.0.2",
+  "license": "BSD-3-Clause",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/v4ish/vscode.git"
+  },
+  "publisher": "v4ish",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "v4ish",
+        "uiTheme": "vs-dark",
+        "path": "./themes/v4ish-color-theme.json"
+      }
+    ]
+  }
+}
