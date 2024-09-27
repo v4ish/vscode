@@ -1,0 +1,45 @@
+{
+  "name": "cold-moon-theme",
+  "displayName": "Cold Moon Theme",
+  "description": "Cold moon theme made by v4ish",
+  "version": "0.7.0",
+  "license": "BSD-3-Clause",
+  "publisher": "v4ish",
+  "galleryBanner": {
+    "color": "#282C34",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/v4ish/vscode.git"
+  },
+  "sponsor": {
+    "url": "https://github.com/sponsors/v4ish"
+  },
+  "bugs": {
+    "url": "https://github.com/v4ish/vscode/issues",
+    "email": "thevk350@proton.me"
+  },
+  "keywords": [
+    "cold moon",
+    "cold-moon-theme",
+    "v4ish",
+    "aesthetic",
+    "dark"
+  ],
+  "engines": {
+    "vscode": "^1.12.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cold Moon Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cold Moon Theme-color-theme.json"
+      }
+    ]
+  }
+}
