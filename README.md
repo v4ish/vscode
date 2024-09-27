@@ -1,4 +1,12 @@
-## Extensions
+# cold-moon-theme README
 
-## Themes
-[Cold moon theme](https://github.com/v4ish/vscode/tree/main/cold-moon-theme)
+## Working with Markdown
+
+- [x] Background and variable comment
+- [ ] Complete the theme
+
+## Support
+
+- [Discord](https://discord.gg/6nrR7zKh)
+
+**Enjoy the Cold Moon theme!**
